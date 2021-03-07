@@ -1,0 +1,94 @@
+.grid img{
+border: 2px solid black;
+border-radius: 50px;
+justify-content:space-evenly;
+}
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width:310px;
+    font-family: fantasy;
+    justify-content:space-evenly;
+}
+.Header{
+  background-color:#b8a9a9;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    position: relative;
+}
+.Header p{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top:14%;
+    left:0%
+}
+.Header h3{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top:9%;
+    left:0%
+}
+.Header a{
+  background-color:#b8a9a9;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+}
+.Header img{
+  background-color:#b8a9a9;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    position: relative;
+}
+.menu {
+  background-color:#b8a9a9;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    position: relative;
+
+  }
+  .menu a{
+    margin-left:0px;
+ }
+ .menu img{
+  position: relative;
+}
+  body{
+    background-color:#b8a9a9;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    position: relative;
+  }
+  .Game1 {
+    display:flex;
+    justify-content:space-evenly;
+    background-color: #b8a9a9;
+    top:20%;
+    }
+    .Game1 img{
+      border: 2px solid black;
+border-radius: 50px;
+justify-content:space-evenly;
+      }
+  a:link{
+    color:rgb(0, 245, 29)
+   }
+   a:visited{
+       color:rgb(0, 187, 255)
+   }
